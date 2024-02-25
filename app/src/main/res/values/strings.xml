@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="error_text">Something went wrong at our end!</string>
+    <string name="retry_text">RETRY</string>
+    <string name="api_key">2fd75483d3a3de115e482fb98284e341</string>
+    <string name="deg">%1$s\u2103</string>
+</resources>
